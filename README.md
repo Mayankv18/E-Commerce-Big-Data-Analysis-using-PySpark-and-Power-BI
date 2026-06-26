@@ -161,10 +161,6 @@ The dashboard consists of **three interactive pages**.
 * Promote high-margin products such as Copiers.
 * Optimize pricing for low-margin products.
 * Focus marketing efforts on the Consumer segment.
-  
-
-view-source:https://github.com/Mayankv18/E-Commerce-Big-Data-Analysis-using-PySpark-and-Power-BI
-
 
 # 📁 Project Structure
 
