@@ -6,6 +6,18 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=powerbi)
 ![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge\&logo=googlecolab)
 
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: MAYANK VIJAYVARGIYA
+
+**INTERN ID**: CITS256
+
+**DOMAIN**: DATA ANALYTICS
+
+**DURATION**: 6 WEEKS
+
+**MENTOR**: NEELA SANTOSH KUMAR
+
 ## 📌 Project Overview
 
 This project demonstrates an end-to-end **Big Data Analytics pipeline** using **PySpark** and **Power BI** to analyze an e-commerce dataset and generate business insights.
